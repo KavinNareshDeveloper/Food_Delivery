@@ -81,7 +81,7 @@ const Wallpaper = () => {
 
     return (
         <div>
-            <img src="./Assets/slider.jpg" height="430" width="100%" alt="Slider" />
+            <img src="./assets/slider.jpg" height="430" width="100%" alt="Slider" />
             <div>
                 <div className="logo">
                     <p>K</p>
